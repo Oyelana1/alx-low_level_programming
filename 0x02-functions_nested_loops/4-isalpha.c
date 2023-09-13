@@ -1,5 +1,3 @@
-4-isalpha.c
-
 #include "main.h"
 
 /**
